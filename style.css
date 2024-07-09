@@ -172,3 +172,267 @@ background: rgba(71, 125, 17, 0.15);
 }
 
 
+/* third part here */
+.support-center {
+  width: 1440px;
+height: 320px;
+border: 2px solid red;
+margin: 0 auto;
+margin-top: 150px;
+display: flex;
+border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+
+}
+
+.image-no1{
+  width: 33%;
+height: 320px;
+  border: 2px solid red;
+  display: flex;
+  justify-content: center;
+align-items: center;
+
+}
+
+.image-no2{
+  width: 34%;
+height: 320px;
+  border: 2px solid red;
+  display: flex;
+  justify-content: center;
+align-items: center;
+}
+
+.image-no3{
+  width: 33%;
+  height: 320px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+  align-items: center;
+}
+
+/* discount-offer */
+.discount-offer{
+  width: 1665px;
+height: 620px;
+margin: 0 auto;
+margin-top: 100px;
+display: flex;
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+
+
+
+}
+
+.text-content{
+
+  width: 50%;
+  height: 620px;
+  margin-left: 150px;
+}
+
+.text-content h1{
+  width: 537px;
+  height: 48px;
+margin-left: 17%;
+margin-top: 30%;
+font-size: 35px;
+font-weight: 800;
+line-height: 48px;
+}
+
+#color{
+  color: rgb(255, 176, 189);
+}
+
+.text-content p{
+  width: 594px;
+height: 60px;
+text-align: center;
+margin-top: 30px;
+margin-left: 90px;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+
+.btn{
+  width: 155px;
+height: 64px;
+border: none;
+background: rgb(229, 84, 115);
+border-radius: 8px;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+color: white;
+margin-left: 300px;
+margin-top: 50px;
+
+}
+
+.image-content{
+  width: 50%;
+  height: 620px;
+}
+
+.image-content{
+  width: 318px;
+height: 420px;
+margin-left: 100ppx;
+margin-top: 130px;
+}
+
+/* instagram section */
+.instagram-section{
+  width: 1440px;
+  height:  620px;
+  margin: 0 auto;
+  margin-top: 150px;
+}
+
+#ig{
+  width: 180px;
+height: 48px;
+color: rgb(39, 39, 39);
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+margin-left: 42%;
+
+}
+
+#text-title{
+  width: 594px;
+height: 60px;
+color: rgba(39, 39, 39, 0.6);
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+text-align: center;
+margin: 30px 28% ;
+}
+
+.instagram-image{
+  width: 1440px;
+  height:  450px;
+  margin: 0 auto;
+  gap: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 57px;
+  
+}
+
+/* footer section */
+
+.latest-deals{
+  width: 1440px;
+  height:  450px;
+  border: 2px solid red;
+  margin: 0 auto;
+  margin-top: 150px;
+  background-image: url("./flower-shop-conceptual-b10-main/images/latest-deals-bg.png");
+}
+
+
+
+
+.deals-title h1 {
+  width: 373px;
+  height: 48px;
+  font-size: 35px;
+font-weight:600;
+line-height: 48px;
+text-align: center;
+margin-left: 37%;
+margin-top: 8%;
+}
+
+.deals-title p {
+  width: 231px;
+height: 30px;
+color: rgba(39, 39, 39, 0.6);
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+margin-left: 42%;
+margin-top: 15px;
+}
+
+.email{
+  margin-left: 20%;
+
+}
+
+.email input {
+  width: 700px;
+height: 55px;
+border-radius: 8px;
+border: none;
+background: rgb(255, 255, 255);
+}
+
+.email button {
+  width: 150px;
+height: 50px;
+border-radius: 8px;
+border: none;
+background: rgb(229, 84, 115);
+color: white;
+font-size: 20px;
+font-weight: 700;
+margin-top: 60px;
+margin-left: 1%;
+
+}
+
+
+
+/* last section  */
+
+.last-section{
+  width: 1922px;
+  height: 449px;
+  border: 2px solid red;
+  margin: 0 auto;
+  margin-top: 100px;
+  background-color: black;
+}
+
+.last-title{
+  color: white;
+  
+}
+
+.last-title h1{
+  width: 259px;
+height: 58px;
+font-size: 48px;
+font-weight: 800;
+line-height: 58px;
+letter-spacing: 0%;
+margin-left: 34%;
+margin-top: 128px;
+}
+
+#colorme{
+  color: #e65473;
+}
+
+.last-title h6{
+  width: 625px;
+height: 60px;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+text-align: center;
+margin-left: 25%;
+margin-top: 1%;
+}
+
